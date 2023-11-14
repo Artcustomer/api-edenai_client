@@ -1,0 +1,68 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f0ffca600b9745e427a76b42dcfa4403",
+    "packages": [
+        {
+            "name": "artcustomer/apiunit",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Artcustomer/apiunit.git",
+                "reference": "a4d1129a412a4b916b1a6766eab5f743fd661a3d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Artcustomer/apiunit/zipball/a4d1129a412a4b916b1a6766eab5f743fd661a3d",
+                "reference": "a4d1129a412a4b916b1a6766eab5f743fd661a3d",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.2|^8.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "0.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Artcustomer\\ApiUnit\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "David Massenot",
+                    "email": "david@artcustomer.fr"
+                }
+            ],
+            "description": "Abstract layer to build API client in PHP",
+            "keywords": [
+                "api"
+            ],
+            "support": {
+                "source": "https://github.com/Artcustomer/apiunit/tree/1.0.0",
+                "issues": "https://github.com/Artcustomer/apiunit/issues"
+            },
+            "time": "2023-01-31T16:47:46+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": true,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=8.1"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
