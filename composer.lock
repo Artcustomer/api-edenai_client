@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f0ffca600b9745e427a76b42dcfa4403",
+    "content-hash": "bac270b14c5f16a5029118077962c857",
     "packages": [
         {
             "name": "artcustomer/apiunit",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Artcustomer/apiunit.git",
-                "reference": "a4d1129a412a4b916b1a6766eab5f743fd661a3d"
+                "reference": "985bd75abe179c21339656f214cba4be2847f9b9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Artcustomer/apiunit/zipball/a4d1129a412a4b916b1a6766eab5f743fd661a3d",
-                "reference": "a4d1129a412a4b916b1a6766eab5f743fd661a3d",
+                "url": "https://api.github.com/repos/Artcustomer/apiunit/zipball/985bd75abe179c21339656f214cba4be2847f9b9",
+                "reference": "985bd75abe179c21339656f214cba4be2847f9b9",
                 "shasum": ""
             },
             "require": {
@@ -26,7 +26,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "0.x-dev"
+                    "dev-master": "1.x"
                 }
             },
             "autoload": {
@@ -48,10 +48,10 @@
                 "api"
             ],
             "support": {
-                "source": "https://github.com/Artcustomer/apiunit/tree/1.0.0",
+                "source": "https://github.com/Artcustomer/apiunit/tree/1.0.1",
                 "issues": "https://github.com/Artcustomer/apiunit/issues"
             },
-            "time": "2023-01-31T16:47:46+00:00"
+            "time": "2023-11-16T07:45:14+00:00"
         }
     ],
     "packages-dev": [],
